@@ -1,3 +1,4 @@
+
 # Gannon Cyber Defense Club
 
 The official web application for the Gannon University Cyber Defense Club.
