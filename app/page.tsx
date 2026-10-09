@@ -82,7 +82,7 @@ export default function Home() {
             </h2>
 
             <p className="mt-8 max-w-xl text-lg leading-8 text-gray-400">
-              Welcome to Gannon University's CyberDefense Club!
+              Welcome to Gannon University CyberDefense Club!
             </p>
 
             {/* Buttons */}
