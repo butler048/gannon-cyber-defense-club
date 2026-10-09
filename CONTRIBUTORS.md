@@ -6,3 +6,4 @@ Members who have contributed to the Gannon University Cyber Defense Club web app
 |------|------|--------|
 | Joel Butler |  President | @butler048 |
 |Jeanalex | Vice President | @namuswe001 |
+| Marcus Klein | Member | @magor362 |
