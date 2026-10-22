@@ -291,7 +291,7 @@ export default function Home() {
             </span>
             <h3 className="text-3xl font-extrabold text-white mt-4">iHack </h3>
             <p className="mt-3 text-slate-400 text-sm md:text-base leading-relaxed">
-              Gannon University's Institute for Health and Cyber Knowledge.
+              Gannon University  Institute for Health and Cyber Knowledge.
             </p>
           </div>
         </div>
