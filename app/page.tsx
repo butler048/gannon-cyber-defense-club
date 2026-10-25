@@ -344,7 +344,7 @@ export default function Home() {
       <section className="border-t border-white/10 bg-[#03060d]">
         <div className="mx-auto grid max-w-7xl grid-cols-1 divide-y divide-white/10 px-6 py-12 sm:grid-cols-3 sm:divide-x sm:divide-y-0">
           <div className="px-6 py-4 text-center transition-transform duration-300 hover:-translate-y-1">
-            <p className="font-mono text-4xl font-extrabold text-white">01</p>
+            <p className="font-mono text-4xl font-extrabold text-white">1</p>
             <p className="mt-2 text-sm text-slate-400">
               Gannon Cyber Defense Club
             </p>
